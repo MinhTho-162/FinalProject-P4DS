@@ -5,7 +5,7 @@
 - MSSV_2 : 18120579 - Đặng Minh Thọ
 ### Chủ đề của nhóm
 
-**Tìm hiểu về khí thải `Co2` của toàn **
+**Tìm hiểu về khí thải `Co2` của toàn cầu**  
 
 ### Các tệp tin của nhóm
 
@@ -17,3 +17,5 @@
 
 
 ![](https://github.com/TranNgocTinh0810/FinalProject-P4DS/blob/master/img.jpg)
+
+### Tài liệu tham khảo
