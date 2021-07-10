@@ -25,5 +25,5 @@ License: John Snow Labs Standard
 
 ### Tài liệu tham khảo
 - Các bài tập về nhà 
-- [link tham khảo](https://vimentor.com/vi/lesson/14-to-chuc-lai-bang-du-lieu-phan-2)
-
+- [link tham khảo 1](https://vimentor.com/vi/lesson/14-to-chuc-lai-bang-du-lieu-phan-2)
+- [link tham khảo 2](https://towardsdatascience.com/left-join-with-pandas-data-frames-in-python-c29c85089ba4)
