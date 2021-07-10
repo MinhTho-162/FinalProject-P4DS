@@ -13,8 +13,13 @@
 
 ### Nguồn dữ liệu sử dụng
 
-[Dữ liệu được lấy từ Kaggle](https://www.kaggle.com/sansuthi/global-co2-emissions)
-[Dữ liệu được lấy từ Kaggle](https://www.kaggle.com/yoannboyere/co2-ghg-emissionsdata)
+- [Dữ liệu được lấy từ ](https://datahub.io/JohnSnowLabs/population-figures-by-country#resource-population-figures-by-country-csv)
+
+License: [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+- [Dữ liệu được lấy từ Kaggle](https://www.kaggle.com/yoannboyere/co2-ghg-emissionsdata)
+
+License: John Snow Labs Standard
 
 ![](https://github.com/TranNgocTinh0810/FinalProject-P4DS/blob/master/img.jpg)
 
